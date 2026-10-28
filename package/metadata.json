@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "org.local.langitascii",
+    "Name": "Langit ASCII",
+    "Description": "Side-view ASCII sky wallpaper for KDE Plasma 6 with wild, ornamental and mythic birds, branch perching, depth scaling, clouds, a 20-minute day/night cycle, rain and snow",
+    "Version": "1.0.0",
+    "Authors": [{ "Name": "Syharipf" }],
+    "License": "MIT",
+    "Icon": "preferences-desktop-wallpaper"
+  }
+}
